@@ -1,0 +1,32 @@
+{
+  "name": "discord-self-bot",
+  "version": "1.0.0",
+  "description": "A Discord self-Bot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Plot6865/DiscordSelfBot.git"
+  },
+  "keywords": [
+    "Discord-Bot",
+    "Discord",
+    "Discord-Self-Bot",
+    "Bot",
+    "Node.js",
+    "JavaScript"
+  ],
+  "author": "Plot#6865",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Plot6865/DiscordSelfBot/issues"
+  },
+  "homepage": "https://github.com/Plot6865/DiscordSelfBot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "djs-commands": "^1.2.2",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
